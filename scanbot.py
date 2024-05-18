@@ -7,13 +7,7 @@
 #!pip install  pdf2image
 #!apt-get install poppler-utils
 #!pip install  telebot
-!pip install PyPDF2
-!pip install pytesseract
-!apt install tesseract-ocr
-!apt install tesseract-ocr-rus
-!pip install  pdf2image
-!apt-get install poppler-utils
-!pip install  telebot
+
 import os
 import re
 import pytesseract
