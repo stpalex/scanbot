@@ -1,0 +1,9 @@
+ PyPDF2
+ pytesseract
+ tesseract-ocr
+ tesseract-ocr-rus
+ pdf2image
+ poppler-utils
+ paddlepaddle
+ paddleocr
+ telebot
